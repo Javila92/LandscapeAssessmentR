@@ -1,0 +1,117 @@
+---
+title: "COVID19 Impacts on smallholders literature"
+output:
+  pdf_document: default
+  html_document: default
+bibliography: C:/Users/latzko/ownCloud/CRC 990/FC Reading/covid/covid_impacts_literature.bib
+---
+
+## @Chrisendo2020
+
+#### Point of analysis \
+* Association between oil palm cultivation and nutrition in smallholder farm households.
+* also considering changes in income and gender roles
+* First hypothesis: Oil palm cultivation is positively associated with household nutrition and dietary quality
+
+#### Data \
+Two rounds of C07 household farmer survey
+
+
+#### Method
+
+* Descriptives for comparing different groups of households
+* run regression models
+* random effects panel models
++ SUR estimator
++ logit estimator
+
+#### Conclusion \
+
+## @Josephson2021
+
+#### Point of analysis \
+Document the socioeconomic impacts of the pandemic among households, adults and children in low-income countries.
+
+#### Data \
+Longitudinal data from high-frequency phone surveys conducted in Ethiopia, Malawi, Nigeria and Uganda with support from the World Bank. These are based on the LSMS-ISA surveys that were conducted in each of these countries.
+$n = 10,855$ households across four countries. 
+Issues: selection bias and non-response bias
+
+#### Method
+
+
+
+#### Conclusion
+
+* An estimated 77\% of the population live in households which has lost income since the start of the pandemic
+* there is inability to access medicine and staple foods for an estimated 30% of households who would need these items
+
+## @Kumar2021
+
+#### Point of analysis \
+Identify, describe and analyze the different factors affecting Indian farming systems, and more broadly the agricultural sector, following the COVID-19 lockdown which started in March, 2020.
+
+
+#### Data 
+
+* "Semi-empirical" research
+* case study UP
+* farmer survey:
+  + 570 farmers spread across 57 districts in UP from March-May 2020
+  + asked about farm operations and whether and how investment and profitability were affected
+
+#### Method \
+mixed methods
+
+#### Conclusion \
+Due to the pandemic, many laborers from the cities migrated back home to their villages. There they compete for local jobs.
+Rural markets have ben wholly or partially closed to to lockdown. There was a government's relief package, though inadequate and not fulfilling the farmers' requirements. People below the povert line are supposed to not easily recover from the crisis. In 2020, wages in both agricultural and non-agricultural sector decreased, in fact stronger regarding the non-agricultural sector. Maybe this is due to the relief packages.
+
+## @Adewopo2021
+
+#### Point of analysis \
+
+Assess the magnitude of price change over eleven weeks during and after the first COVID-related lockdown (2020), relative to the preceding year (2019).
+
+
+#### Data \
+Study area: northern Nigeria, where a pilot project to crowdsource food price data in Africa was led by the European Commission’s Joint Research Centre
+
+* 23,961 spatially distributed datapoints, contributed by 236 active volunteers, on the price of four commodities (local rice, Thailand rice, white maize and yellow maize) 
+* combined with spatial richness index grid derived from UN-FAO
+  + data and information shortage between March and April 2020
+
+#### Findings \
+
+Results show that the retail price of maize (yellow and white) and rice (local and Thai rice) increased on average by respectively 26% and 44% during this COVID-related period, compared to prices reported in the same period in 2019. GPS-tracked data showed that mobility and market
+access of active volunteers were reduced, travel-distance to market being 54% less in 2020 compared to 2019, and illustrates potential limitations on consumers who often seek lower pricing by accessing broader markets
+
+#### Method \
+
+In brief, the method consists of a series of steps implemented in algorithms (developed in R software) to assess spatial-temporal markets (clusters) of daily commodity prices, filter out spurious data points, and confine price values to reasonable attribute ranges.
+
+#### Conclusion \
+
+## @Bene2020
+
+#### Point of analysis \
+
+Explore and discuss the concept of local food system resilience in light of the disruptions brought to those systems by the 2020 COVID-19 pandemic.
+
+#### Data \
+
+
+#### Findings \
+
+The review of existing (mainly grey or media-based) accounts on COVID-
+19 suggests that, with the exception of those who lost members of their family to the virus, as per June 2020 the main impact of the pandemic derives mainly from the lockdown and mobility restrictions imposed by national/local governments, and the consequence that the subsequent loss of income and purchasing power has on people’s food security, in particular the poor.
+
+#### Method \
+
+
+
+#### Conclusion \
+
+
+
+## Reference list
