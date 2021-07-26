@@ -1,8 +1,8 @@
 ---
 title: "COVID19 Impacts on smallholders literature"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 bibliography: C:/Users/latzko/ownCloud/CRC 990/FC Reading/covid/covid_impacts_literature.bib
 ---
 
