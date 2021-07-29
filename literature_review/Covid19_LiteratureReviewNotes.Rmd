@@ -1,10 +1,11 @@
 ---
 title: "COVID19 Impacts on smallholders literature"
-output:
+output: 
   html_document: default
   pdf_document: default
-bibliography: C:/Users/latzko/ownCloud/CRC 990/FC Reading/covid/covid_impacts_literature.bib
+bibliography: C:/Users/latzko/ownCloud/CRC 990/Landscape_Assessment/LandscapeAssessmentR/literature_review/covid_impacts_literature.bib
 ---
+
 
 ## @Chrisendo2020
 
@@ -110,7 +111,7 @@ The review of existing (mainly grey or media-based) accounts on COVID-
 
 #### Conclusion \
 
-## @Mallory.2020
+## @Mallory2021
 
 #### Point of analysis \
 
@@ -128,15 +129,50 @@ The review of existing (mainly grey or media-based) accounts on COVID-
 
 #### Findings \
 
-Grain, oilseed and poultry export shipments have been relatively unaffected but beef and pork export shipments experiences signifcant reductions with Brazil filling the shortfall in both cases.
+Grain, oil seed and poultry export shipments have been relatively unaffected but beef and pork export shipments experiences significant reductions with Brazil filling the shortfall in both cases.
 
 #### Method \
 
-Data comparison, descriptive satistics, speculation
+Data comparison, descriptive statistics, speculation
+
+#### Conclusion \
+
+The crisis' necessary remedies do tremendous harm to the economy. Meat supply chains are especially vulnerable and disruptions to processing capacity harms farmers, processors, consumers and *our* trading partners
+
+## @Olivia2020
+
+#### Point of analysis \
+
+* International dimensions of the Covid-19 crisis
+  + focus on Covid in Indonesia
+* Focus on economy
+  + actual and projected impacts on growth
+  + macroeconomic stability
+  + international interactions
+  + government's policy responses
+* Social impacts and protection and poverty
+* Potential long-term implications
+ 
+
+#### Data \
+
+* Mostly descriptive statistics and different national and international data sources, e.g.:
+  + IMF
+  + Covid-19 task force
+  + WB data
+  + BPS through CEIC
+
+#### Findings \
+
+
+
+#### Method \
 
 
 #### Conclusion \
 
 
 
+
 ## Reference list
+
