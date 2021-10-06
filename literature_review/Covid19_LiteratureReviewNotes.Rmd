@@ -323,6 +323,79 @@ Qualitative interviews, descriptive statistics
 The qualitative interviews highlight the magnitude of the disruptions faced by agricultural commodity traders involved in cross-border trade due to COVID-19 restrictions. None of the respondents expects these restrictions to be lifted in time for the coming monsoon harvest. Decreased export demand for Myanmar’s agricultural commodities will put downward pressure on prices and have negative effects on Myanmar’s rural economies that already are hard hit by the COVID-19 crisis.
 
 
+## @Yamamura2020
+
+#### Point of analysis \
+
+During the COVID 19 epidemic in Japan between March and April 2020 , Internet surveys were conducted to construct panel data to investigate change s at the individual level regarding preventive behaviors and mental condition s by surveying the same respondents at different times.
+
+#### Data \
+
+Internet surveys (not representative, seems like there was no sampling)
+
+#### Findings \
+
+* (1) the declaration led people to st ay home, while also
+generating anger , fear, and anxiety 
+* (2) The effect of the declaration on the promotion of
+preventive behaviors was larger than the detrimental effect on mental condition s
+* (3) Overall, the effect on women was larger than that on men.
+
+##### Recommended actions for policy
+
+> "An increase in anger from staying indoors is thought to cause domestic violence.
+Considering this aspect is important when evaluating the outcomes of the state of emergency
+declaration in Japan as well as lockdown s in Italy, France, Spain, the United Kingdom, and
+the United States. Moreover, it is necessary to evaluate government policies through cost
+benefit analysis from a long term viewpoint. Further research should investigate these aspects
+to scrutinize whether Japanese government’s policy is more effective and efficient than
+policies adopted by the USA, UK, French , Italy, and Spain"
+
+#### Methods \
+
+Difference-in-difference approach \
+Treatment: declaration was held only for seven of these nine prefectures. The seven
+prefectures where the declaration was held were defined as the treatment group. The two
+remaining prefectures were defined as the control group. The number of individuals infected
+
+#### Conclusion \
+
+
+## @Aguero2020
+
+#### Point of analysis \
+
+Health shocks and their long-lasting impact on health behaviors:
+Evidence from the 2009 H1N1 pandemic in Mexico
+
+#### Data \
+
+Several data sources, all but one, collected
+by Mexico’s Ministry of Health (Secretaria de Salud) to create a state-year
+balanced panel.
+
+#### Findings \
+
+> "We show that exogenous health shocks could facilitate the adoption of these behaviors (that are low-cost
+but also difficult to adopt) and provide long-lasting effects on health outcomes. Specifically, we exploit the spatial and temporal variation of the 2009 H1N1 influenza pandemic in Mexico and show that areas with a higher incidence of H1N1 experienced larger reductions in diarrhea-related cases among young children. These reductions continue even three years after the shock ended. Health improvements and evidence of information seeking via Google searches were consistent with changes in hand washing behaviors. Several robustness checks validate our findings and mechanism."
+
+##### Recommended actions for policy
+
+> "Business-as-usual strategies, such as overall government health expenditures, vaccinations campaigns as well
+changes in infrastructure (e.g., hospital beds) are unlikely to be behind the reasons for the decline in diarrhea cases. During major health emergencies, such as pandemics, individuals increase their demand for knowledge about ways to remain healthy (e.g. learning about better hygiene practice increases). If governments facilitate access to low cost information sources, such as search engines, (or hot lines, TV or radio spots), especially in areas where the disease is more prevalent, our results indicate that the public will use these resources to acquire information."
+
+#### Methods \
+
+> We exploit the temporal (the onset of the swine flu in 2009) and cross-sectional variation (by state) of the swine flu to examine its effect on diarrhea cases, that is, diseases that may be prevented with improved hygiene behavior that followed the onset of the H1N1 pandemic in Mexico. D.i.D. identification strategy using a balanced panel at the state and year-level: 
+
+$y_{st}=\alpha + \beta H1N1_{st} + \tau_t + \theta_s + e_{st}$
+
+"$y_{st}$ is the number of hospital discharges with a primary diagnosis of intestinal infections (henceforth referred to as diarrhea) for
+state s in year t."
+
+#### Conclusion \
+
+
 
 ## Reference list
 
